@@ -70,11 +70,11 @@ body {
   display: flex;
   flex-direction: column;
 }
-.card--list-options h4 {
+.card--list-options h3 {
   font-weight: 700;
   font-size: 1.2rem;
 }
-.card--list-options h5 {
+.card--list-options h4 {
   font-weight: 400;
   color: hsl(227deg, 10%, 46%);
 }
